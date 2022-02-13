@@ -1,0 +1,6 @@
+ryan reynolds,m,45,actor,funny,f,45,model,kind,188
+blake lively,f,34,model,kind,m,50,actor,funny,blonde
+dwayne johnson,m,49,wrestler,charismatic,f,50,bodybuilder,strong,196
+hayley williams,f,33,musician,talented,m,35,songwriter,cool,redhead
+matt bellamy,m,43,musician,talented,f,30,actress,pretty,170
+kate winslet,f,46,actress,kind,m,50,director,funny,brunette
